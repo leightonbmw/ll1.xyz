@@ -4,5 +4,5 @@ local place = game.PlaceId
 if place == 292439477 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/leightonbmw/ll1.xyz/main/phantomforces", true))()
 else
-    print("boogie bomb")
+    print("boogie bomb da emma")
 end
